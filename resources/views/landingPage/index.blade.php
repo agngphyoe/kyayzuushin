@@ -353,7 +353,7 @@
     <!-- Rent A Car End -->
 
     <!-- Testimonial Start -->
-    <div class="container-fluid py-5">
+    {{-- <div class="container-fluid py-5">
         <div class="container py-5">
             <h1 class="display-1 text-primary text-center">05</h1>
             <h1 class="display-4 text-uppercase text-center mb-5">Our Client's Say</h1>
@@ -396,7 +396,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Testimonial End -->
 
 
